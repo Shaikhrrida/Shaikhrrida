@@ -46,7 +46,9 @@ Grow as a self-taught developer alongside my academic journey
 
 
 Let's Connect:
+
 GitHub: github.com/Shaikhrrida
+
 LinkedIn: https://www.linkedin.com/in/rida-shaikh-987304304
 
 Thanks for visiting my profile!## Hi there 👋
