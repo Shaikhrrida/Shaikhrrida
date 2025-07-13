@@ -5,9 +5,13 @@ Welcome to my GitHub profile. I’m currently pursuing my Bachelor's in Computer
 
 
 Areas of Interest:
+
 Frontend Web Development (HTML5, CSS3, JavaScript)
+
 Responsive UI Design
+
 Learning Git and GitHub
+
 Exploring basic JavaScript and frameworks in future
 
 
