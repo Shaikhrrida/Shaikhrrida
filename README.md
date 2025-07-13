@@ -7,8 +7,11 @@ Welcome to my GitHub profile. I’m currently pursuing my Bachelor's in Computer
 Areas of Interest:
 
 Frontend Web Development (HTML5, CSS3, JavaScript)
+
 Responsive UI Design
+
 Learning Git and GitHub
+
 Exploring basic JavaScript and frameworks in future
 
 
@@ -16,6 +19,7 @@ Exploring basic JavaScript and frameworks in future
 Current Projects:
 
 My First Website – a static HTML/CSS website
+
 Project 2 – structured site with images and styling
 
 
@@ -23,18 +27,26 @@ Project 2 – structured site with images and styling
 
 What I'm Learning:
 
+
 JavaScript fundamentals.
+
 Responsive design techniques.
+
 GitHub hosting.
+
 Writing clean and accessible frontend code.
 
 
 
 Goals:
 
+
 Build fully responsive, interactive websites.
+
 Contribute to open source.
+
 Create a professional frontend portfolio.
+
 Grow as a self-taught developer alongside my academic journey.
 
 
