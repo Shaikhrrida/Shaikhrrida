@@ -23,8 +23,6 @@ Exploring basic JavaScript and frameworks in future
 
 Build fully responsive, interactive websites.
 
-Create a professional frontend portfolio.
-
 Grow as a self-taught developer alongside my academic journey.
 
 <br/>
