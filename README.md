@@ -7,10 +7,10 @@ Hi, I'm Rida Shaikh – a Computer Science Student & an aspiring Frontend Develo
 Welcome to my GitHub profile. I’m currently pursuing my Bachelor's in Computer Science and actively learning and building frontend web projects. I’m passionate about clean design, writing structured code, and growing my skills in web development.
 <br/>
 <br/>
-I am mostly interested in Frontend Web Development (HTML5, CSS3, JavaScript), Responsive UI Design, Learning Git and GitHub, Exploring basic JavaScript and frameworks in future.
+I am mostly interested in Frontend Web Development (HTML5, CSS3, JavaScript),making responsive UI Designs, Learning Git and GitHub.
 <br/>
 
-My Goal is Build fully responsive, interactive websites and grow as a self-taught developer alongside my academic journey.
+My Goal is to build fully responsive, interactive websites and grow as a self-taught developer alongside my academic journey.
 
 <br/>
 <h2 align="center"><strong>Core Technologies</strong></h2>
