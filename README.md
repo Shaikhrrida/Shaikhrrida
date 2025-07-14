@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I’m currently pursuing my Bachelor's in Computer
 <br/>
 <br/>
 <h3><strong>Areas of Interest:</strong></h3>
-<br/>
+
 
 Frontend Web Development (HTML5, CSS3, JavaScript)
 
@@ -20,7 +20,6 @@ Exploring basic JavaScript and frameworks in future
 <br/>
 <br/>
 <h3><strong>Goals:</strong></h3>
-
 
 Build fully responsive, interactive websites.
 
@@ -50,7 +49,7 @@ Grow as a self-taught developer alongside my academic journey.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ridajunaidshaikh@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" style="vertical-align:middle; margin-right:5px;"/>
+    <img https:"https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45" style="vertical-align:middle; margin-right:5px;"/>
   </a>
 </p>
 
