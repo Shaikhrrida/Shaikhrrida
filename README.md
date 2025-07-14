@@ -49,7 +49,7 @@ Grow as a self-taught developer alongside my academic journey.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ridajunaidshaikh@gmail.com" target="_blank">
-    <img https:"https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45" style="vertical-align:middle; margin-right:5px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45" style="vertical-align:middle; margin-right:5px;"/>
   </a>
 </p>
 
