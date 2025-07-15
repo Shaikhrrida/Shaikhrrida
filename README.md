@@ -25,7 +25,7 @@ My Goal is to build fully responsive, interactive websites and grow as a self-ta
 </p>
 <hr>
 
-<br/>
+
 <h2 align="center"><strong>Connect with Me</strong></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/shaikhrida" target="_blank">
