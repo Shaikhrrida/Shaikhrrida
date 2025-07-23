@@ -19,8 +19,8 @@ My Goal is to build fully responsive, interactive websites and grow as a self-ta
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" style="margin-right:10px;"/>
   &nbsp;&nbsp;&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="margin-right:10px;"/>
+  &nbsp;&nbsp;&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="margin-right:10px;"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin-right:10px;"/>
